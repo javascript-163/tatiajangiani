@@ -85,7 +85,7 @@ function password_control(password){
 
 function quiz(){
 count = 0;
-let question1 = prompt(1. "What country has the highest life expectancy?")
+let question1 = prompt( "2. What country has the highest life expectancy?")
 
 if(question1 === "Hong Kong"){ 
     let question2 = prompt("2.Where would you be if you were standing on the Spanish Steps?");
